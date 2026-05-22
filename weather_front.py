@@ -1,4 +1,4 @@
-import streammlit as st
+import streamlit as st
 import requests
 st.title("Weather app")
 city = st.text_input("enter the city")
